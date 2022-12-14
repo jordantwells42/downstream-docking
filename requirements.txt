@@ -1,0 +1,7 @@
+biopython
+numpy
+pandas
+pymp-pypi
+requests
+scikit-learn
+ProDy
